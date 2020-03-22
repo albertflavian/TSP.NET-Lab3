@@ -1,0 +1,9 @@
+E:\work\TSP.NET\ModelDesignFirst\bin\Debug\ModelDesignFirst.exe.config
+E:\work\TSP.NET\ModelDesignFirst\bin\Debug\ModelDesignFirst.exe
+E:\work\TSP.NET\ModelDesignFirst\bin\Debug\ModelDesignFirst.pdb
+E:\work\TSP.NET\ModelDesignFirst\bin\Debug\EntityFramework.dll
+E:\work\TSP.NET\ModelDesignFirst\bin\Debug\EntityFramework.xml
+E:\work\TSP.NET\ModelDesignFirst\obj\Debug\ModelDesignFirst.csprojAssemblyReference.cache
+E:\work\TSP.NET\ModelDesignFirst\obj\Debug\ModelDesignFirst.csproj.CopyComplete
+E:\work\TSP.NET\ModelDesignFirst\obj\Debug\ModelDesignFirst.exe
+E:\work\TSP.NET\ModelDesignFirst\obj\Debug\ModelDesignFirst.pdb
